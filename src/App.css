@@ -1,0 +1,149 @@
+.App {
+  text-align: center;
+}
+#tdd{
+  padding-right: 40px;
+}
+#tdd1{
+ padding-left: 60px;
+ 
+}
+#tdd2{
+  padding-left: 80px;
+  }
+#tdd3{
+  padding-left: 80px;
+  width: 200px;
+}
+#tab{
+  padding: 20px;
+  padding-right: 40px;
+}
+#tab1{
+  padding-left: 40px;
+}
+#tab2{
+  padding-left: 100px;
+}
+#tab3{
+  padding-left: 140px;
+}
+#tab4{
+  padding-left: 120px;
+}
+body{ 
+  background-repeat: no-repeat;
+   height: 100vh;
+  background-size: cover;
+  background-position:center
+}
+#bank{
+  margin-left: 250px;
+  margin-top: 70px;
+}
+#home{
+  background-color: rgb(226, 227, 230);
+  height: 750px;
+}
+uls{
+  background-color: #76838c;
+}
+lis{
+  
+  font-size: large;
+  font-weight: bold;
+  /* border: 1px solid #1f6ba1; */
+  width: 180px;
+  text-align: center;
+  border-radius: 2px;
+  margin-left: 80px;
+    
+
+}
+#li2{
+  color: white;
+}
+#cardcre{
+  margin-left: 600px;
+  background-color: rgb(202, 207, 246);
+  width: 400px;
+}
+#cardwith{
+  margin-top: 50px;
+  margin-left: 600px;
+  background-color: rgb(202, 207, 246);
+  width: 400px;
+}
+#carddep{
+  /* height: 300px; */
+  margin-top: 100px;
+  margin-left: 650px;
+  background-color: rgb(202, 207, 246);
+  width: 400px;
+}
+label{
+  margin-right: 10px;
+}
+#cre{
+  margin-left: 90px;
+  margin-top: -500px;
+}
+#dept{
+  margin-left: 70px;
+  margin-top: -350px;
+}
+#withd{
+  
+  margin-left: 70px;
+  margin-top: -390px;
+}
+
+#data{
+  font-size: x-large;
+  text-align: center;
+  border-radius: 20px;
+  background-color: #f5f9fa;
+  /* border: 1px solid black; */
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-top: 100px;
+  height: 300px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#input{
+  border: 2px solid black;
+}
